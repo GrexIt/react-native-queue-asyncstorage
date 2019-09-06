@@ -29,7 +29,7 @@ JobSchema = {
 
 */
 
-const BACKUP_TIME = 15000;
+const BACKUP_TIME = 50;
 const Job = '@queue:Job';
 
 export default class Database {
